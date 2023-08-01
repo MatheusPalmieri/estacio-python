@@ -3,5 +3,11 @@
     "editor.defaultFormatter": "ms-python.autopep8"
   },
   "python.formatting.provider": "none",
-  "cSpell.words": ["matplotlib", "pyplot", "xlabel", "ylabel"]
+  "cSpell.words": [
+    "matplotlib",
+    "pyplot",
+    "sklearn",
+    "xlabel",
+    "ylabel"
+  ]
 }
